@@ -1,74 +1,35 @@
-<!-- Jungle Lantern Festival Blogger Post Template -->  
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-  <meta charset="UTF-8" />  
-  <title>Indore New Year Party 2025-26 🎉 Jungle Lantern Festival (JLF)</title>  
-  <meta name="description" content="Indore’s Biggest New Year Party 2025-26 – Jungle Lantern Festival with camping, live DJ, fireworks, trekking, sky lanterns & unlimited fun. Book Tickets Now!">  
-  <meta name="keywords" content="New Year Party Indore 2025, Indore Events, Jungle Lantern Festival, Best New Year Party Indore, JLF Indore Tickets, TMTS Events, New Year 2025 Indore Celebration, Camping Party Indore, Sky Lantern Festival, Jungle Music Festival Indore">    
+# Indore’s Biggest New Year Party 2025-26 🎉 Jungle Lantern Festival
 
-  <!-- Schema Markup -->    
-  <script type="application/ld+json">  
-  {  
-    "@context": "https://schema.org",  
-    "@type": "Event",  
-    "name": "Jungle Lantern Festival (JLF) - Indore New Year Party 2025-26",  
-    "startDate": "2025-12-31T18:00",  
-    "endDate": "2026-01-01T10:00",  
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",  
-    "eventStatus": "https://schema.org/EventScheduled",  
-    "location": {  
-      "@type": "Place",  
-      "name": "Indore Jungle Lantern Festival Grounds",  
-      "address": {  
-        "@type": "PostalAddress",  
-        "streetAddress": "Near Indore – Patalpani Route",  
-        "addressLocality": "Indore",  
-        "addressRegion": "Madhya Pradesh",  
-        "postalCode": "452001",  
-        "addressCountry": "IN"  
-      }  
-    },  
-    "image": [  
-      "https://i.postimg.cc/MTMk0BhX/file-00000000905c61f888d47eacd7274b7d.png"
-    ],  
-    "description": "Indore’s Biggest New Year Party 2025-26 - Jungle Lantern Festival (JLF) with camping, live DJ, bonfire, fireworks, sky lanterns & adventure.",  
-    "offers": {  
-      "@type": "Offer",  
-      "url": "https://traveltheraphy-thrillmytravel.blogspot.com/2025/08/jungle-lantern-festival-jlf-2025-best.html",  
-      "price": "1499",  
-      "priceCurrency": "INR",  
-      "availability": "https://schema.org/InStock",  
-      "validFrom": "2025-11-01T00:00"  
-    },  
-    "organizer": {  
-      "@type": "Organization",  
-      "name": "ThrillMyTravel",  
-      "url": "https://www.thrillmytravel.in/"  
-    }  
-  }  
-  </script>  
-</head>  
-<body>  
-<h1>Indore’s Biggest New Year Party 2025-26 🎉 Jungle Lantern Festival</h1>  
-<p>Welcome to <strong>Indore’s #1 New Year Party 2025-26</strong> – <em>Jungle Lantern Festival (JLF)</em>, an unforgettable night of camping, bonfire jamming, sky lanterns, live DJ, fireworks, night trekking & unlimited adventure! 🌌</p>  
+Welcome to **Indore’s #1 New Year Party 2025-26** – *Jungle Lantern Festival (JLF)*, an unforgettable night of camping, bonfire jamming, sky lanterns, live DJ, fireworks, night trekking & unlimited adventure! 🌌
 
-<h2>🔥 What’s Included?</h2>  
-<ul>  
-  <li>✨ Sky Lantern Festival – Watch the night glow with hundreds of lanterns</li>  
-  <li>🎶 Live DJ & Jungle Music Festival vibes</li>  
-  <li>🔥 Bonfire Jamming Sessions</li>  
-  <li>🌌 Stargazing & Night Trekking Adventure</li>  
-  <li>🎇 Fireworks Countdown Show</li>  
-  <li>🏕️ Camping Under the Stars</li>  
-</ul>  
+## 🔥 What’s Included?
+- ✨ Sky Lantern Festival – Watch the night glow with hundreds of lanterns
+- 🎶 Live DJ & Jungle Music Festival vibes
+- 🔥 Bonfire Jamming Sessions
+- 🌌 Stargazing & Night Trekking Adventure
+- 🎇 Fireworks Countdown Show
+- 🏕️ Camping Under the Stars
 
-<h2>🎟️ Tickets & Pricing</h2>  
-<ul>  
-  <li>Early Bird JLF Entry Pass – ₹1499 Per Person (Limited)</li>  
-  <li>Early Bird Royal Comfort Camping Pass – ₹2999 Per Person (Limited)</li>  
-  <li>Early Birds Couple Pass For Royal Comfort Camping – ₹4999</li>  
-  <li>Group Pass (3 Guest Camping Pass) – ₹5999</li>  
+## 🎟️ Tickets & Pricing
+- Early Bird JLF Entry Pass – ₹1499 Per Person (Limited)
+- Early Bird Royal Comfort Camping Pass – ₹2999 Per Person (Limited)
+- Early Birds Couple Pass For Royal Comfort Camping – ₹4999
+- Group Pass (3 Guest Camping Pass) – ₹5999
+- VIP Table With Camping Pass PP – ₹6999  (Includes Premium Tents + Special Seating)
+
+👉 Book Now on [Townscript](https://www.townscript.com/e/jungle-lantern-fest-jlf-new-year-party-in-indore-20252026-with-lantern-festival-by-thrillmytravel-222404) OR Call: +91 7470407455
+
+## 📍 Venue
+Indore Jungle Lantern Festival Grounds, Near Patalpani Route, Indore, Madhya Pradesh.
+
+## 🔗 Useful Links
+- [ThrillMyTravel](https://www.thrillmytravel.in/)
+- [Townscript Tickets](https://www.townscript.com/e/jungle-lantern-fest-jlf-new-year-party-in-indore-20252026-with-lantern-festival-by-thrillmytravel-222404)
+- [LinkedIn Article](https://www.linkedin.com/pulse/best-new-year-party-indore-2025-2026-jungle-lantern-travel-in-e6dyf)
+- [Blogger Info](https://traveltheraphy-thrillmytravel.blogspot.com/2025/08/jungle-lantern-festival-jlf-2025-best.html)
+
+## 📢 Hashtags
+#NewYearPartyIndore #JLF #JungleLanternFestival #JMF #LanternFestival #JLF2025 #IndoreEvents #TMTEVENTS #ThrillMyTravel #JungleMusicFestival  <li>Group Pass (3 Guest Camping Pass) – ₹5999</li>  
   <li>VIP Table With Camping Pass PP – ₹6999  (Includes Premium Tents + Special Seating)</li>  
 </ul>  
 
