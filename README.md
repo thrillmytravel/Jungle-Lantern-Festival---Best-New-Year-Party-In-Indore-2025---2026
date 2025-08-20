@@ -29,9 +29,7 @@ Indore Jungle Lantern Festival Grounds, Near Patalpani Route, Indore, Madhya Pra
 - [Blogger Info](https://traveltheraphy-thrillmytravel.blogspot.com/2025/08/jungle-lantern-festival-jlf-2025-best.html)
 
 ## 📢 Hashtags
-#NewYearPartyIndore #JLF #JungleLanternFestival #JMF #LanternFestival #JLF2025 #IndoreEvents #TMTEVENTS #ThrillMyTravel #JungleMusicFestival  <li>Group Pass (3 Guest Camping Pass) – ₹5999</li>  
-  <li>VIP Table With Camping Pass PP – ₹6999  (Includes Premium Tents + Special Seating)</li>  
-</ul>  
+#NewYearPartyIndore #JLF #JungleLanternFestival #JMF #LanternFestival #JLF2025 #IndoreEvents #TMTEVENTS #ThrillMyTravel #JungleMusicFestival
 
 <p>👉 Book Now on <a href="https://www.townscript.com/e/jungle-lantern-fest-jlf-new-year-party-in-indore-20252026-with-lantern-festival-by-thrillmytravel-222404" target="_blank">Townscript</a> OR Call: <a href="tel:+917470407455">+91 7470407455</a></p>  
 
@@ -58,5 +56,3 @@ Indore Jungle Lantern Festival Grounds, Near Patalpani Route, Indore, Madhya Pra
 
 <h2>✨ Final Call</h2>  
 <p>⏰ Don’t wait – passes are selling fast! Be a part of <strong>Indore’s Biggest New Year Party 2025-26</strong>. Book Now & welcome 2026 in the most <em>magical jungle vibe</em> with <strong>lanterns, music & memories</strong> 🎉.</p>  
-</body>  
-</html>
